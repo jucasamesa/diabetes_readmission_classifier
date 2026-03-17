@@ -1,4 +1,4 @@
-# DS_GlobantTest
+# Technical test - DS_GlobantTest
 
 The folder 3.Diabetes includes the solution to the third case scenario for the DS Globant test.
 
